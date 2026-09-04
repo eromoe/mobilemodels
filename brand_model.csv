@@ -1698,6 +1698,7 @@ honor,JDY-AN00,cn,荣耀, 荣耀 Play9C 5G
 honor,LOG-AN10,cn,荣耀, 荣耀 Play10 5G / 荣耀 Play10T 5G
 honor,NIC-AN00,cn,荣耀, 荣耀 Play10C 5G
 honor,NLA-AN00,cn,荣耀, 荣耀 Play10A 5G / 荣耀 Play11C 5G
+honor,MRK-AN00,cn,荣耀, 荣耀 Play11 5G
 honor,LAB-AN00,cn,荣耀, 荣耀 Play11T 5G
 honor,LNA-AN00,cn,荣耀, 荣耀 Play11 Plus 5G / 荣耀 Play11 Pro 5G
 honor,DVD-AN00,cn,荣耀, 荣耀 Power
@@ -6115,6 +6116,7 @@ oppo,PMT110,cn,OPPO, OPPO A6s Pro
 oppo,PLT130,cn,OPPO, OPPO A6v
 oppo,PLT140,cn,OPPO, OPPO A6x / OPPO A6m
 oppo,PMC110,cn,OPPO, OPPO A6c
+oppo,PYE110,cn,OPPO, OPPO A7 Pro
 oppo,PYC110,cn,OPPO, OPPO A7 Pro Max
 oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
@@ -9280,6 +9282,8 @@ xiaomi-wear,M2553B1,cn,小米, 小米手环 10 Pro 陶瓷版 国行版
 xiaomi-wear,M2552B1,cn,小米, 小米手环 10 Pro 国际版
 xiaomi-wear,M2558B1,cn,小米, 小米手环 10 Pro NFC 版 国际版
 xiaomi-wear,M2559B1,cn,小米, 小米手环 10 Pro 陶瓷版 国际版
+xiaomi-wear,M2616B1,cn,小米, 小米手环 11
+xiaomi-wear,M2617B1,cn,小米, 小米手环 11 NFC 版 / 陶瓷版 / 全金属版
 xiaomi-wear,XMWT01,cn,小米, 小米手表
 xiaomi-wear,M2320W1,cn,小米, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,小米, Xiaomi Watch 2 Pro 蓝牙版
